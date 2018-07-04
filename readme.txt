@@ -10,4 +10,4 @@ Git has a mutable index called stage.
 git commit on dev
 creating a new branch is quick & simple
 
-xiugai  zai dev 分支上[这是一个新版本的软件]
+修改  zai dev 分支上[这是一个新版本的软件[修改bug]]
