@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 # 
 #        modified:  readme.txt
 git commit on dev
+update on feature1
